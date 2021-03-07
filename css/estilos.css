@@ -1,5 +1,8 @@
 body {
+<<<<<<< HEAD
     background: #1e1f24;
+=======
+>>>>>>> footer
     color: black;
     text-align: left;
     font-family: Arial;
@@ -42,6 +45,18 @@ body {
 }
 
 #post {
+<<<<<<< HEAD
     background: white;
     padding: 1em;
 }
+=======
+    padding: 2em;
+}
+
+#footer {
+  background: #777;
+  color: white;
+  text-align: center;
+  padding: 0.2em;
+}
+>>>>>>> footer
